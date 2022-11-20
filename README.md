@@ -1,17 +1,17 @@
 # AR-physiotherapy
 Human body pose tracking for the development of Artificial Reality (AR) in-home physiotherapy
 
-# ################     PART 1    #####################
+# PART 1   
 
 Run real-time detection OpenPose on gpu (too slow on cpu) and run the code to validate the position in parallel.
 To use real time detection directly with the camera, from my understanding, download OpenPose from Source.
 Link to medium where the installation is detailled:
 https://medium.com/pixel-wise/real-time-pose-estimation-in-webcam-using-openpose-python-2-3-opencv-91af0372c31c
 
-# #################     PART 2     #####################
+# PART 2 
 Run OpenPose on several sequence of image to directly run OpenPose and get an output .json (2D only for now workin with my code).
 
-# #################     Getting started    #####################
+# Getting started with OpenPose
 1)HOW TO RUN OpenPose on Windows 	(detailed here: https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation/0_index.md)
 
 2)DOWNLOAD OpenPose 
@@ -30,8 +30,8 @@ Train file exemple: '..\Dataset_gpu\Perso\Calibration\Train':
 The same pose is registered for different persons.
 
 Test file example: '..\Dataset_gpu\Perso\Calibration\Test':
- The same pose is registered for different persons with their eye closed (Can we see a difference?)
-+ in  '..\Dataset_gpu\Perso\Calibration\Test\Ludo'  I perform whole other positions
+ The same pose is registered for different persons with their eye closed 
+In  '..\Dataset_gpu\Perso\Calibration\Test\Ludo', I perform whole other positions
 
 Reference dataset '..\Dataset_gpu\Perso\Calibration\Train\Ludo'
 Test dataset '..\Dataset_gpu\Perso\Calibration\Test\Ludo' 
