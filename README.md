@@ -1,4 +1,4 @@
-# AR-physiotherapy
+# AR-physiotherapy in SP - code.py
 Human body pose tracking for the development of Artificial Reality (AR) in-home physiotherapy
 
 # PART 1   
