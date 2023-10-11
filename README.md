@@ -1,7 +1,6 @@
 # AR-physiotherapy in SP - code.py
 
-Generative model for rehabilitation of upper limbs at home.
-
+Generative model for rehabilitation of upper limbs at home.\
 Human body pose tracking for the development of Artificial Reality (AR) in-home physiotherapy.
 
 **Color code:**
@@ -33,7 +32,7 @@ Run OpenPose on several sequence of image to directly run OpenPose and get an ou
 2)DOWNLOAD OpenPose 
 - <ins>for Windows:</ins>
 unzip body_motion
-code for gpu is in folder openpose-1.7.0-binaries-win64-gpu-python3.7-flir-3d_recommended in the zip file<
+code for gpu is in folder openpose-1.7.0-binaries-win64-gpu-python3.7-flir-3d_recommended in the zip file
 - <ins>for Ubuntu:</ins>
 git clone https://github.com/CMU-Perceptual-Computing-Lab/openpose
 cd openpose/
@@ -60,5 +59,5 @@ Test dataset '..\Dataset_gpu\Perso\Calibration\Test\Ludo'
 
 2. Then run openpose in the directory above
   - bin\OpenPoseDemo.exe --image_dir '..\Dataset_gpu\Perso\Calibration\Train'  --write_json '..\openpose\output_json_folder\Train_Ludo'   
-(You may need t ocreate the repository  Train_Ludo if the algorithm doesn't create it itself)
+(You may need to create the repository  Train_Ludo if the algorithm doesn't create it itself)
 
