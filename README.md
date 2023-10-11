@@ -1,6 +1,10 @@
 # AR-physiotherapy in SP - code.py
 Human body pose tracking for the development of Artificial Reality (AR) in-home physiotherapy
 
+
+https://github.com/bossardl/Remote-physiotherapy/assets/90336628/9b223ed3-23cd-42b2-8367-475398f74d61
+
+
 # PART 1   
 
 Run real-time detection OpenPose on gpu (too slow on cpu) and run the code to validate the position in parallel.
