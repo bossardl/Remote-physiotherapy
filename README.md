@@ -8,7 +8,6 @@ We've developed a system that utilizes human body pose tracking to provide an im
 
 Generative model for rehabilitation of upper limbs at home.\
 Human body pose tracking for the development of Artificial Reality (AR) in-home physiotherapy.\
-The patient sees in the background the expected position to reach. He/She moves his/her limb according to the indication given by the color code.
 
 **Color code:**
 - :green_heart: Expected position for the exercise
