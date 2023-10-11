@@ -12,6 +12,9 @@ Human body pose tracking for the development of Artificial Reality (AR) in-home 
   <img src="https://github.com/bossardl/Remote-physiotherapy/assets/90336628/a2842582-3669-4ab9-840a-92dc9c16e1ca.gif" alt="Upper limb rehabilitation at home" />
 </div>
 
+Disclaimer:
+I own the code and the video. This is a research project conducted under the supervision of Pr. Cedric Pradalier at Georgia Tech Europe.
+
 # PART 1   
 
 Run real-time detection OpenPose on gpu (too slow on cpu) and run the code to validate the position in parallel.
