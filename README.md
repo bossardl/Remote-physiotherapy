@@ -1,7 +1,14 @@
+Welcome to our AR-Physiotherapy project! This repository hosts a generative model tailored for in-home upper limb rehabilitation.
+# Project overview 
+
+Our project is dedicated to advancing the field of in-home physiotherapy by leveraging the power of Artificial Reality (AR).\
+We've developed a system that utilizes human body pose tracking to provide an immersive experience for patients from their couch. 🚀📱
+
 # AR-physiotherapy in SP - code.py
 
 Generative model for rehabilitation of upper limbs at home.\
-Human body pose tracking for the development of Artificial Reality (AR) in-home physiotherapy.
+Human body pose tracking for the development of Artificial Reality (AR) in-home physiotherapy.\
+The patient sees in the background the expected position to reach. He/She moves his/her limb according to the indication given by the color code.
 
 **Color code:**
 - :green_heart: Expected position for the exercise
@@ -12,11 +19,17 @@ Human body pose tracking for the development of Artificial Reality (AR) in-home 
   <img src="https://github.com/bossardl/Remote-physiotherapy/assets/90336628/a2842582-3669-4ab9-840a-92dc9c16e1ca.gif" alt="Upper limb rehabilitation at home" />
 </div>
 
+# HOW IT WORKS
+
+In this setup, the patient's environment includes a visual representation of the ideal exercise position, which is displayed in the background. As the patient engages in their rehabilitation exercises, a color-coded system offers real-time feedback. This feedback is designed to assist the patient in adjusting their limb positions to meet the prescribed guidelines effectively.
+
+Our goal is to make at-home physiotherapy more engaging, interactive, and ultimately more beneficial for patients. We invite you to explore the code and resources in this repository to learn more about our innovative AR-Physiotherapy project.
+
 **Disclaimer:**
 
 I own the code and the video. This is a research project conducted under the supervision of Pr. Cedric Pradalier at Georgia Tech Europe.
 
-# PART 1   
+# PART 1  
 
 Run real-time detection OpenPose on gpu (too slow on cpu) and run the code to validate the position in parallel.
 To use real time detection directly with the camera, from my understanding, download OpenPose from Source.
