@@ -1,5 +1,13 @@
 # AR-physiotherapy in SP - code.py
-Human body pose tracking for the development of Artificial Reality (AR) in-home physiotherapy
+
+Generative model for rehabilitation of upper limbs at home.
+
+**Color code:**
+- <span style="color: green;">Expected position for the exercise</span>
+- <span style="color: red;">Need to move in the direction of the arrow to get to the right position</span>
+
+
+Human body pose tracking for the development of Artificial Reality (AR) in-home physiotherapy.
 
 
 
