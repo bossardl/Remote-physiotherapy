@@ -3,10 +3,9 @@ Human body pose tracking for the development of Artificial Reality (AR) in-home 
 
 
 
-<div style="text-align:center">
-  <img src="https://github.com/bossardl/Remote-physiotherapy/assets/90336628/a2842582-3669-4ab9-840a-92dc9c16e1ca" alt="Upper limb rehabilitation at home" />
+<div align="center">
+  <img src="https://github.com/bossardl/Remote-physiotherapy/assets/90336628/a2842582-3669-4ab9-840a-92dc9c16e1ca.gif" alt="Upper limb rehabilitation at home" />
 </div>
-
 
 # PART 1   
 
