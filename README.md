@@ -5,7 +5,7 @@ Human body pose tracking for the development of Artificial Reality (AR) in-home 
 
 **Color code:**
 - :green_heart: Expected position for the exercise
-- :heart: Need to move in the direction of the arrow to get to the right position
+- :heart: Need to move in the direction of the ➡️ to get to the right position
 
 
 <div align="center">
