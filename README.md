@@ -1,9 +1,11 @@
 # AR-physiotherapy in SP - code.py
 Human body pose tracking for the development of Artificial Reality (AR) in-home physiotherapy
 
-![Vidéo sans titre](https://github.com/bossardl/Remote-physiotherapy/assets/90336628/80f7f66b-6d4a-495e-a243-c360c37b86e2)
 
 
+<div style="text-align:center">
+  <img src="![AR-home](https://github.com/bossardl/Remote-physiotherapy/assets/90336628/80f7f66b-6d4a-495e-a243-c360c37b86e2)" alt="Your GIF Description" />
+</div>
 
 # PART 1   
 
