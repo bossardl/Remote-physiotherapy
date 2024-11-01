@@ -1,8 +1,8 @@
 Welcome to our AR-Physiotherapy project! This repository hosts a generative model tailored for in-home upper limb rehabilitation.
 # Project overview 
 
-Our project is dedicated to advancing the field of in-home physiotherapy by leveraging the power of Artificial Reality (AR).\
-We've developed a system that utilizes human body pose tracking to provide an immersive experience for patients from their couch. 🚀📱
+This project is dedicated to advancing the field of in-home physiotherapy by leveraging the power of Artificial Reality (AR).\
+I have developed a system that utilizes human body pose tracking to provide an immersive experience for patients from their couch. 🚀📱
 
 # AR-physiotherapy in SP - code.py
 
